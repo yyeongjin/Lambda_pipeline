@@ -19,7 +19,7 @@
         }
     ```
 
-3. 버전 생성
+3. Create version
     ```cli
     aws lambda publish-version --function-name dev-function
     ```
